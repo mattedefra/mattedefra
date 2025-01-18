@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning data science<br>🎯 Goals: making it my profession^<br>🎲 Fun fact: "this shouldn't work, why does it work?" has become my most commonly used phrase since I started coding.</p>
+<p align="left">📚 I'm currently learning data science<br>🎯 Goals: making it my profession^<br>🎲 Fun fact: "this shouldn't work, why does it work?" has become my most commonly used phrase since I started coding.</p>
 
 ###
 
