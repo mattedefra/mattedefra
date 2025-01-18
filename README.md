@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Hey there! 👋 I'm Matteo, an Italian data enthusiast with a passion for all things data science and statistics.<br>  
-  I thrive on diving deep into data, unraveling hidden patterns, and transforming raw numbers into actionable insights. 📊<br>  
+  I thrive on diving deep into data, unraveling hidden patterns, and transforming raw numbers into actionable insights.📊<br>  
   Whether it's building models, crafting visualizations, or wrangling datasets, data is my playground. 🛠️<br>  
   I'm all about making data meaningful and helping turn information into impactful decisions. 🚀<br>  
   When I'm not coding or analyzing, you might find me exploring new tech or enjoying a good espresso! ☕<br>  
