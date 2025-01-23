@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning data science<br>🎯 Goals: making it my profession^<br>🎲 Fun fact: "No way that works??" has been a staple in my learning journey.</p>
+<p align="left">📚 I'm currently learning Excel, SQL<br>🎯 Goals: making it my profession^<br>🎲 Fun fact: "No way that works??" has been a staple in my learning journey.</p>
 
 ###
 
