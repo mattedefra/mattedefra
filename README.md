@@ -6,7 +6,7 @@
   I thrive on diving deep into data, unraveling hidden patterns, and transforming raw numbers into actionable insights.📊<br>  
   Whether it's building models, crafting visualizations, or wrangling datasets, data is my playground. 🛠️<br>  
   I'm all about making data meaningful and helping turn information into impactful decisions. 🚀<br>  
-  When I'm not coding or analyzing, you might find me exploring new tech or enjoying a good espresso! ☕<br>  
+  <br>  
   Let's connect and share ideas – the world of data is better when we build it together!</p>
 
 ###
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Excel, SQL<br>🎯 Goals: making it my profession^<br>🎲 Fun fact: "No way that works??" has been a staple in my learning journey.</p>
+<p align="left">📚 I'm currently learning Excel, SQL<br>🎯 Goals: becoming a business analyst<br>🎲 Fun fact: sleeping provides a +400% buff to intelligence the next day!.</p>
 
 ###
 
