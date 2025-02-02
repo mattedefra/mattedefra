@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Excel, SQL<br>🎯 Goals: becoming a business analyst<br>🎲 Fun fact: sleeping provides a +400% buff to intelligence the next day!.</p>
+<p align="left">📚 I'm currently learning Excel, SQL<br>🎯 Goals: becoming a business analyst<br>🎲 Fun fact: sleeping provides a +400% buff to intelligence the next day!</p>
 
 ###
 
