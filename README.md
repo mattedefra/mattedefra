@@ -1,21 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">I write code sometimes</p>
 
-###
 
-<p align="left">Hey there! 👋 I'm Matteo, an Italian data enthusiast with a passion for all things data science and statistics.<br>  
-  I thrive on diving deep into data, unraveling hidden patterns, and transforming raw numbers into actionable insights.📊<br>  
-  Whether it's building models, crafting visualizations, or wrangling datasets, data is my playground. 🛠️<br>  
-  I'm all about making data meaningful and helping turn information into impactful decisions. 🚀<br>  
-  <br>  
-  Let's connect and share ideas – the world of data is better when we build it together!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning Excel, SQL<br>🎯 Goals: becoming a business analyst<br>🎲 Fun fact: sleeping provides a +400% buff to intelligence the next day!</p>
 
 ###
 
